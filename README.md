@@ -9,3 +9,5 @@ git commit -m "Commit Text" = to commit the changes in staging area
 git log = shows logs
 git show= show recent log
 git ls-files = show what files are tracked by GIT
+
+git checkout -b branchName = create a new branch
