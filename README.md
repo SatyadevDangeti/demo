@@ -10,7 +10,5 @@ git log = shows logs
 git show= show recent log
 git ls-files = show what files are tracked by GIT
 
-
-it is changed
-
+Changes now
 git checkout -b branchName = create a new branch
