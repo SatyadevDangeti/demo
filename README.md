@@ -12,3 +12,5 @@ git ls-files = show what files are tracked by GIT
 
 Changes now
 git checkout -b branchName = create a new branch
+
+Added new website files
